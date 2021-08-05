@@ -1,0 +1,9 @@
+:dad:You got quite the skills man!
+:dad:Care for another match? 
+:bf:beep
+:bf:but actually, we can't do that yet
+:dad:Yea, you're right.
+:dad:This is the end of the demo i guess.
+:bf:sad
+:dad:Anyway, thanks for playing!
+:bf:see you soon
